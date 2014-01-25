@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<?xml-stylesheet href="director.xsl" type="text/xsl" ?>
+<director name="APR_earlygame" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="director.xsd">
+	<documentation>
+		<author name="Zanzal" alias="Zanzal" contact="zanzal on Egosoft forums"/>
+		<content reference="APR_earlygame" name="APR Early Game" description="APR Early Gameplay Enhancements"/>
+		<version number="1.0" date="2014-01-12" status="development"/>
+	</documentation>
+	<cues>
+    <cue name="APREG_Inheritance">
+      <condition>
+        <check_all>
+          <check_age value="{player.age}" min="30s" />
+          <check_value value="{player.gamestart}" min="801" max="829" />
+        </check_all>
+      </condition>
+      <action>
+        <do_all>
+          <run_script script="plugin.zanzal.apreloaded.gamestart.inheritance" task="1">
+            <scriptargs>
+              <scriptvalue datatype="integer" datavalue="{player.gamestart}" />
+            </scriptargs>
+          </run_script>
+        </do_all>       
+      </action>
+    </cue>
+	</cues>
+</director>  

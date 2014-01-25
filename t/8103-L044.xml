@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- Generated using X-Studio -->
+<language id="44">
+
+	<page id="8103" title="Ship browser" desc="" voice="no">
+		<t id="1">Ship Browser</t>
+		<t id="2">\n</t>
+		<t id="3">\33G%s\33X</t>
+		<t id="4">\33R%s\33X</t>
+		<t id="5">\33B%s\33X</t>
+		<t id="6">\33O%s\33X</t>
+		<t id="7">\33Y%s\33X</t>
+		<t id="8">\33W%s\33X</t>
+		<t id="9">NEW STRING</t>
+		<t id="10">NEW STRING</t>
+		<t id="11">NEW STRING</t>
+		<t id="12">NEW STRING</t>
+		<t id="13">NEW STRING</t>
+	</page>
+</language>

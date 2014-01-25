@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated using X-Studio -->
+<project version="1">
+	<document type="script">C:\Program Files (x86)\Steam\steamapps\common\x3 terran conflict\addon\scripts\lib.zanzal.xml</document>
+	<document type="script">C:\Program Files (x86)\Steam\steamapps\common\x3 terran conflict\addon\scripts\lib.zanzal.createsector.xml</document>
+	<document type="script">C:\Program Files (x86)\Steam\steamapps\common\x3 terran conflict\addon\scripts\plugin.zanzal.apreloaded.gamestart.xml</document>
+	<document type="script">C:\Program Files (x86)\Steam\steamapps\common\x3 terran conflict\addon\scripts\plugin.zanzal.apreloaded.gamestart.inheritance.xml</document>
+	<document type="script">C:\Program Files (x86)\Steam\steamapps\common\x3 terran conflict\addon\scripts\setup.zanzal.apreloaded.xml</document>
+	<document type="script">C:\Program Files (x86)\Steam\steamapps\common\x3 terran conflict\addon\scripts\plugin.zanzal.apreloaded.interact.xml</document>
+	<document type="script">C:\Program Files (x86)\Steam\steamapps\common\x3 terran conflict\addon\scripts\plugin.zanzal.apreloaded.mineralscanner.xml</document>
+	<document type="script">C:\Program Files (x86)\Steam\steamapps\common\x3 terran conflict\addon\scripts\plugin.zanzal.shipbrowser.xml</document>
+	<document type="script">C:\Program Files (x86)\Steam\steamapps\common\x3 terran conflict\addon\scripts\plugin.zanzal.shipbrowser.menu.xml</document>
+	<document type="script">C:\Program Files (x86)\Steam\steamapps\common\x3 terran conflict\addon\scripts\plugin.zanzal.shipbrowser.main.xml</document>
+	<document type="script">C:\Program Files (x86)\Steam\steamapps\common\x3 terran conflict\addon\scripts\setup.zanzal.shipbrowser.xml</document>
+	<document type="script">C:\Program Files (x86)\Steam\steamapps\common\x3 terran conflict\addon\scripts\plugin.zanzal.getshipvalue.xml</document>
+	<document type="language">C:\Program Files (x86)\Steam\steamapps\common\x3 terran conflict\addon\t\8100-L044.xml</document>
+	<document type="language">C:\Program Files (x86)\Steam\steamapps\common\x3 terran conflict\addon\t\8103-L044.xml</document>
+</project>
